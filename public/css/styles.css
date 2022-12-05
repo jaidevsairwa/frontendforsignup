@@ -6,7 +6,7 @@ body{
 	align-items: center;
 	min-height: 100vh;
 	font-family: 'Jost', sans-serif;
-	background-image:url("../img9.png");
+	background-image:url("/images/img9.png");
 }
 
 h1{
